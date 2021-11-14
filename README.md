@@ -10,3 +10,5 @@ The assignment consists the following exercises:
 
 -   Experimenting with Mininet
 
+
+The report is in the repository and 1GB text file is not in included as it was not allowed on github.
